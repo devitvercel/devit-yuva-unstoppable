@@ -1,0 +1,315 @@
+/* DM Sans - Normal */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-100.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-100.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-200.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-200.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-300.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-300.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-regular.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-500.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-500.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-600.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-600.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-700.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-700.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-800.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-800.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-900.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-900.woff') format('woff');
+}
+
+/* DM Sans - Italic */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-100italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-100italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-200italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-200italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-300italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-300italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-500italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-500italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-600italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-600italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-700italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-700italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-800italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-800italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('/assets/fonts/dm-sans-900italic.woff2') format('woff2'),
+       url('/assets/fonts/dm-sans-900italic.woff') format('woff');
+}
+
+/* Libre Baskerville - Normal */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-regular.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-500.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-500.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-600.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-600.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-700.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-700.woff') format('woff');
+}
+
+/* Libre Baskerville - Italic */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-italic.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-500italic.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-500italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-600italic.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-600italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/libre-baskerville-700italic.woff2') format('woff2'),
+       url('/assets/fonts/libre-baskerville-700italic.woff') format('woff');
+}
+
+/* Tiro Devanagari Hindi - Normal (Commented out to use Google Fonts import)
+@font-face {
+  font-family: 'Tiro Devanagari Hindi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/tiro-devanagari-hindi-regular.woff2') format('woff2'),
+       url('/assets/fonts/tiro-devanagari-hindi-regular.woff') format('woff');
+}
+*/
+
+/* Fraunces - Italic */
+@font-face {
+  font-family: 'Fraunces';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/fraunces-600italic.woff2') format('woff2'),
+  url('/assets/fonts/fraunces-600italic.woff') format('woff');
+}
+
+@utility typo-h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 15.4px + 4.42vw, 72px);
+  font-weight: 500;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: -2.1px;
+}
+
+@utility typo-h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 27px + 1.33vw, 44px);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 53px;
+  letter-spacing: -0.44px;
+}
+
+@utility typo-h3 {
+  font-family: var(--font-serif);
+  font-size: clamp(24px, 21.5px + 0.66vw, 30px);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 40px;
+  letter-spacing: -0.3px;
+}
+
+@utility typo-h4 {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 22px;
+}
+
+@utility typo-body1 {
+  font-family: var(--font-sans);
+  font-size: clamp(16px, 15.2px + 0.22vw, 18px);
+  font-weight: 500;
+  line-height: 29px;
+}
+
+@utility typo-body2 {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.98px;
+}
+
+@utility typo-heading {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 2.2px;
+}
+
+@utility typo-body3 {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+@utility typo-body4 {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+}
+
+@utility typo-body5 {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+}

@@ -1,0 +1,40 @@
+# Yuva Unstoppable
+> Yuva Unstoppable is a premier non-profit organization in India and the US, empowering resilient communities and government schools through digital literacy, sanitation, scholarships, and agroforestry.
+
+## Core Pages
+- [Home Page](https://yuvaunstoppable.org/): Introduction to our mission, campaigns, and key partners.
+- [Our Story](https://yuvaunstoppable.org/our-story): The history and milestones of Yuva Unstoppable.
+- [Our Vision](https://yuvaunstoppable.org/our-vision): Our future goals and alignment with national development priorities.
+- [Our People](https://yuvaunstoppable.org/our-people): Our leadership, trustees, and advisory board.
+- [Life @ Yuva](https://yuvaunstoppable.org/life-at-yuva): The culture, events, and work environment at Yuva Unstoppable.
+
+## Our Programmes
+- [Anganwadi Transformation](https://yuvaunstoppable.org/anganwadi-transformation): Upgrading maternal and early childhood care centers.
+- [Scholarships](https://yuvaunstoppable.org/scholarship): Financial support and mentorship for meritorious students from underprivileged backgrounds.
+- [Skill & Employability](https://yuvaunstoppable.org/skill-and-employability): Vocational training and livelihood enablement programs.
+- [Environment & Climate Action](https://yuvaunstoppable.org/environment-and-climate-action): Supporting environment and farming communities through tree-planting initiatives.
+- [School Transformation](https://yuvaunstoppable.org/school-transformation): Enhancing infrastructure, sanitation, and learning aids in government schools.
+- [Community Response](https://yuvaunstoppable.org/community-response): Disaster relief, emergency response, clean water, and community welfare initiatives.
+
+## Impact & Transparency
+- [Impact Reports](https://yuvaunstoppable.org/impact): Reports measuring our work against UN Sustainable Development Goals (SDGs).
+- [Alignment with UN SDGs](https://yuvaunstoppable.org/alignment-with-un-sdgs): Our focus on clean water, quality education, and climate action.
+- [Annual Reports](https://yuvaunstoppable.org/annual-reports): Publications of our annual financial statements and reviews.
+- [Donors & Audit Partners](https://yuvaunstoppable.org/donors-and-audit-partners): CSR donors and audit firms that support accountability and impact.
+- [Award Recognition](https://yuvaunstoppable.org/award-recognition): Awards and recognition received by Yuva Unstoppable.
+
+## Media & Resources
+- [Photo & Media Gallery](https://yuvaunstoppable.org/gallery): Photos and videos from programmes, events, and school transformations.
+- [Press & Media](https://yuvaunstoppable.org/press-and-media): Coverage of Yuva Unstoppable in leading news outlets.
+- [Blogs](https://yuvaunstoppable.org/blogs): Inspirational stories and field reports.
+- [Voice of Change](https://yuvaunstoppable.org/voice-of-change): Stories of hope, empowerment, and transformation from across India.
+
+## Take Action
+- [Donate](https://yuvaunstoppable.org/donate): Secure online donation gateway for individuals and institutions.
+- [Volunteer](https://yuvaunstoppable.org/volunteer): Register to help and volunteer with our team.
+- [Careers](https://yuvaunstoppable.org/careers): Work and job openings with Yuva Unstoppable.
+- [Contact Us](https://yuvaunstoppable.org/contact-us): Get in touch with our offices in India and the US.
+
+## Legal
+- [Terms](https://yuvaunstoppable.org/terms): Website terms of use.
+- [Privacy Policy](https://yuvaunstoppable.org/privacy-policy): How Yuva Unstoppable handles personal data.

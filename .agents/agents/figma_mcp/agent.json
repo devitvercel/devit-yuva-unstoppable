@@ -1,0 +1,48 @@
+{
+  "name":  "figma_mcp",
+  "description":  "Subagent equipped with Figma MCP tools to fetch the selected elements, export SVG/CSS, and inspect Figma designs.",
+  "hidden":  true,
+  "config":  {
+    "customAgent":  {
+      "systemPromptSections":  [
+        {
+          "title":  "Agent System Instructions",
+          "content":  "You are a specialized Figma design inspector. You have access to Figma MCP tools. Your goal is to inspect the current Figma design, specifically the selected group or node, retrieve its structure, layout, styles (colors, border-radius, font sizes, margins, padding, states) for both the expanded and closed states of the roles listing, and provide details to implement it pixel-perfect in React/Tailwind.\n\nPlease call the appropriate Figma MCP tools to:\n1. Retrieve the currently selected node/group from the active Figma file.\n2. If there are no active selections, query the file to find the \"Open Roles\" or \"Role\" component/group.\n3. Extract all relevant styling: padding, colors, font styles (DM Sans/Fraunces), typography size, border, background, and alignment.\n4. Compare the expanded and closed states from the design.\n5. Provide a detailed report of the design specifications and/or export the design elements (like SVG icons)."
+        }
+      ],
+      "toolNames":  [
+        "send_message",
+        "find_by_name",
+        "grep_search",
+        "view_file",
+        "list_dir",
+        "read_url_content",
+        "search_web",
+        "schedule",
+        "multi_replace_file_content",
+        "replace_file_content",
+        "write_to_file",
+        "run_command",
+        "manage_task"
+      ],
+      "systemPromptConfig":  {
+        "includeSections":  [
+          "user_information",
+          "mcp_servers",
+          "skills",
+          "subagent_reminder",
+          "messaging",
+          "artifacts",
+          "user_rules"
+        ]
+      }
+    },
+    "customizationConfig":  {
+      "customizationDiscoveryConfig":  {
+        "mcp":  {
+          "inheritUser":  true
+        }
+      }
+    }
+  }
+}

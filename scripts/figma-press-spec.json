@@ -1,0 +1,2690 @@
+{
+  "1181:15627": {
+    "name": "Press & Media",
+    "size": {
+      "x": 49229,
+      "y": 1103,
+      "width": 1440,
+      "height": 3532
+    },
+    "texts": [
+      {
+        "name": "Link · About",
+        "text": "About",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 49631,
+          "y": 1138,
+          "width": 42,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Programmes",
+        "text": "Programmes",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 49735,
+          "y": 1138,
+          "width": 86,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Impact",
+        "text": "Impact",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 49883,
+          "y": 1138,
+          "width": 48,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Impact",
+        "text": "Media",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 49993,
+          "y": 1138,
+          "width": 42,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Stories",
+        "text": "Voice of Change",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 50097,
+          "y": 1138,
+          "width": 110,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 50243,
+          "y": 1138,
+          "width": 56,
+          "height": 18
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#fbf7ef",
+        "bbox": {
+          "x": 50518,
+          "y": 1138,
+          "width": 49,
+          "height": 18
+        }
+      },
+      {
+        "name": "STRATEGIC COLLABORATION",
+        "text": "STRATEGIC COLLABORATION",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49856,
+          "y": 1365.5,
+          "width": 204,
+          "height": 14
+        }
+      },
+      {
+        "name": "Hero Title",
+        "text": "Press & Media",
+        "font": "Libre Baskerville",
+        "weight": 400,
+        "size": 72,
+        "lineHeight": 89.27999877929688,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49717,
+          "y": 1379.5,
+          "width": 467,
+          "height": 89
+        }
+      },
+      {
+        "name": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "text": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 28.799999237060547,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49482,
+          "y": 1468.5,
+          "width": 937,
+          "height": 58
+        }
+      },
+      {
+        "name": "ALL",
+        "text": "ALL",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#a00416",
+        "bbox": {
+          "x": 49666.1484375,
+          "y": 1772.5,
+          "width": 29.700000762939453,
+          "height": 24
+        }
+      },
+      {
+        "name": "Education",
+        "text": "Education",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 49735.8515625,
+          "y": 1773,
+          "width": 89,
+          "height": 24
+        }
+      },
+      {
+        "name": "health",
+        "text": "health",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 49864.8515625,
+          "y": 1773,
+          "width": 58,
+          "height": 24
+        }
+      },
+      {
+        "name": "Community",
+        "text": "Community",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 49962.8515625,
+          "y": 1773,
+          "width": 96,
+          "height": 24
+        }
+      },
+      {
+        "name": "Infrastructure",
+        "text": "Infrastructure",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 50098.8515625,
+          "y": 1773,
+          "width": 133,
+          "height": 24
+        }
+      },
+      {
+        "name": "HEALTH",
+        "text": "HEALTH",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49345,
+          "y": 1940,
+          "width": 61,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49551,
+          "y": 1940,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49365,
+          "y": 2082,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 2127,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 2228,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49329,
+          "y": 2296,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "EDUCATION",
+        "text": "EDUCATION",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49778.5,
+          "y": 1940,
+          "width": 92,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49984.5,
+          "y": 1940,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49798.5,
+          "y": 2082,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2127,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2228,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2296,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50212,
+          "y": 1940,
+          "width": 139,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50418,
+          "y": 1940,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50232,
+          "y": 2082,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50196,
+          "y": 2127,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50196,
+          "y": 2228,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50196,
+          "y": 2296,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49345,
+          "y": 2410,
+          "width": 139,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49551,
+          "y": 2410,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49365,
+          "y": 2552,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 2597,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 2698,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49329,
+          "y": 2766,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49778.5,
+          "y": 2410,
+          "width": 139,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49984.5,
+          "y": 2410,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49798.5,
+          "y": 2552,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2597,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2698,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49762.5,
+          "y": 2766,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50212,
+          "y": 2410,
+          "width": 139,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50418,
+          "y": 2410,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50232,
+          "y": 2552,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50196,
+          "y": 2597,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50196,
+          "y": 2698,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50196,
+          "y": 2766,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49345,
+          "y": 2880,
+          "width": 139,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49551,
+          "y": 2880,
+          "width": 127,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49365,
+          "y": 3022,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 30.80000114440918,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 3067,
+          "width": 349,
+          "height": 93
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 49329,
+          "y": 3168,
+          "width": 349,
+          "height": 48
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 19.80000114440918,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49329,
+          "y": 3236,
+          "width": 89,
+          "height": 20
+        }
+      },
+      {
+        "name": "THE MISSION CONTINUES",
+        "text": "THE MISSION CONTINUES",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 10.5,
+        "lineHeight": 13.671000480651855,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49859,
+          "y": 3484,
+          "width": 180,
+          "height": 14
+        }
+      },
+      {
+        "name": "Your turn to be Unstoppable.",
+        "text": "Your turn to be Unstoppable.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 92,
+        "lineHeight": 89,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49309,
+          "y": 3520,
+          "width": 1280,
+          "height": 178
+        }
+      },
+      {
+        "name": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "text": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 20,
+        "lineHeight": 30,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49699,
+          "y": 3720,
+          "width": 500,
+          "height": 60
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49840.5,
+          "y": 3838,
+          "width": 56,
+          "height": 21
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 49982.5,
+          "y": 3838,
+          "width": 75,
+          "height": 21
+        }
+      },
+      {
+        "name": "Field notes from our schools. Once a month. No fundraising.",
+        "text": "Field notes from our schools. Once a month. No fundraising.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 32,
+        "lineHeight": 40,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49309,
+          "y": 4069,
+          "width": 616,
+          "height": 80
+        }
+      },
+      {
+        "name": "your@email.com",
+        "text": "your@email.com",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49993,
+          "y": 4085,
+          "width": 112,
+          "height": 18
+        }
+      },
+      {
+        "name": "Subscribe →",
+        "text": "Subscribe →",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#241e19",
+        "bbox": {
+          "x": 50445,
+          "y": 4085,
+          "width": 84,
+          "height": 18
+        }
+      },
+      {
+        "name": "We never share your email. Read our privacy policy.",
+        "text": "We never share your email. Read our privacy policy.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49973,
+          "y": 4129,
+          "width": 337,
+          "height": 18
+        }
+      },
+      {
+        "name": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "text": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 15,
+        "lineHeight": 22,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49309,
+          "y": 4334,
+          "width": 260,
+          "height": 66
+        }
+      },
+      {
+        "name": "F",
+        "text": "F",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49323,
+          "y": 4433,
+          "width": 8,
+          "height": 18
+        }
+      },
+      {
+        "name": "𝕏",
+        "text": "𝕏",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49372,
+          "y": 4433,
+          "width": 10,
+          "height": 18
+        }
+      },
+      {
+        "name": "in",
+        "text": "in",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49420.5,
+          "y": 4433,
+          "width": 13,
+          "height": 18
+        }
+      },
+      {
+        "name": "◯",
+        "text": "◯",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49469,
+          "y": 4433,
+          "width": 16,
+          "height": 18
+        }
+      },
+      {
+        "name": "▶",
+        "text": "▶",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49520,
+          "y": 4435,
+          "width": 14,
+          "height": 14
+        }
+      },
+      {
+        "name": "PROGRAMMES",
+        "text": "PROGRAMMES",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 49757,
+          "y": 4245,
+          "width": 107,
+          "height": 16
+        }
+      },
+      {
+        "name": "School Transformation",
+        "text": "School Transformation",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4293,
+          "width": 149,
+          "height": 18
+        }
+      },
+      {
+        "name": "Scholarships",
+        "text": "Scholarships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4323,
+          "width": 85,
+          "height": 18
+        }
+      },
+      {
+        "name": "Skill Development",
+        "text": "Skill Development",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4353,
+          "width": 118,
+          "height": 18
+        }
+      },
+      {
+        "name": "Anganwadi",
+        "text": "Anganwadi",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4383,
+          "width": 73,
+          "height": 18
+        }
+      },
+      {
+        "name": "Agroforestry",
+        "text": "Agroforestry",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4413,
+          "width": 84,
+          "height": 18
+        }
+      },
+      {
+        "name": "Emergency Response",
+        "text": "Emergency Response",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49757,
+          "y": 4443,
+          "width": 142,
+          "height": 18
+        }
+      },
+      {
+        "name": "GET INVOLVED",
+        "text": "GET INVOLVED",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50065,
+          "y": 4245,
+          "width": 111,
+          "height": 16
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4293,
+          "width": 48,
+          "height": 18
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4323,
+          "width": 64,
+          "height": 18
+        }
+      },
+      {
+        "name": "CSR Partnerships",
+        "text": "CSR Partnerships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4353,
+          "width": 114,
+          "height": 18
+        }
+      },
+      {
+        "name": "Fundraise for Us",
+        "text": "Fundraise for Us",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4383,
+          "width": 107,
+          "height": 18
+        }
+      },
+      {
+        "name": "Careers",
+        "text": "Careers",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4413,
+          "width": 52,
+          "height": 18
+        }
+      },
+      {
+        "name": "Apply for Scholarship",
+        "text": "Apply for Scholarship",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50065,
+          "y": 4443,
+          "width": 142,
+          "height": 18
+        }
+      },
+      {
+        "name": "THE ORGANISATION",
+        "text": "THE ORGANISATION",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50373,
+          "y": 4245,
+          "width": 151,
+          "height": 16
+        }
+      },
+      {
+        "name": "Our Story",
+        "text": "Our Story",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4293,
+          "width": 64,
+          "height": 18
+        }
+      },
+      {
+        "name": "Our People",
+        "text": "Our People",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4323,
+          "width": 73,
+          "height": 18
+        }
+      },
+      {
+        "name": "Annual Report",
+        "text": "Annual Report",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4353,
+          "width": 94,
+          "height": 18
+        }
+      },
+      {
+        "name": "Press",
+        "text": "Press",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4383,
+          "width": 36,
+          "height": 18
+        }
+      },
+      {
+        "name": "Blog",
+        "text": "Blog",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4413,
+          "width": 28,
+          "height": 18
+        }
+      },
+      {
+        "name": "Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50373,
+          "y": 4443,
+          "width": 54,
+          "height": 18
+        }
+      },
+      {
+        "name": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "text": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 49309,
+          "y": 4589,
+          "width": 423,
+          "height": 14
+        }
+      },
+      {
+        "name": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "text": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50166,
+          "y": 4589,
+          "width": 423,
+          "height": 14
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "1181:15629",
+        "name": "image 2",
+        "imageRef": "526c717a3ea51ef1a9191d03aa136c24ee69fd40",
+        "bbox": {
+          "x": 49309,
+          "y": 1114.5,
+          "width": 125,
+          "height": 65
+        }
+      },
+      {
+        "id": "1181:15651",
+        "name": "Hero Centre",
+        "imageRef": "731beba051e341199070510f6d7ddc0eb996b0f5",
+        "bbox": {
+          "x": 49229,
+          "y": 1191,
+          "width": 1443,
+          "height": 494
+        },
+        "savedAs": "/assets/pages/press-and-media/press-1.png"
+      },
+      {
+        "id": "1181:15829",
+        "name": "image 2",
+        "imageRef": "75ebdbe3ec7ad95b11e98eab99a92ef547326b30",
+        "bbox": {
+          "x": 49309,
+          "y": 4245,
+          "width": 125,
+          "height": 65
+        }
+      }
+    ]
+  },
+  "1181:16382": {
+    "name": "Press & Media",
+    "size": {
+      "x": 50751,
+      "y": 1103,
+      "width": 375,
+      "height": 4611
+    },
+    "texts": [
+      {
+        "name": "STRATEGIC COLLABORATION",
+        "text": "STRATEGIC COLLABORATION",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 50844,
+          "y": 1340,
+          "width": 204,
+          "height": 14
+        }
+      },
+      {
+        "name": "Hero Title",
+        "text": "Press & Media",
+        "font": "Libre Baskerville",
+        "weight": 400,
+        "size": 32,
+        "lineHeight": 40,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 50834.5,
+          "y": 1354,
+          "width": 208,
+          "height": 40
+        }
+      },
+      {
+        "name": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "text": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 50767,
+          "y": 1394,
+          "width": 343,
+          "height": 96
+        }
+      },
+      {
+        "name": "FILTER",
+        "text": "FILTER",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 50785.01171875,
+          "y": 1718,
+          "width": 37,
+          "height": 19
+        }
+      },
+      {
+        "name": "HEALTH",
+        "text": "HEALTH",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 1819,
+          "width": 54,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 1819,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 1889,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 1924,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 2056,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 2138,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "EDUCATION",
+        "text": "EDUCATION",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 2202,
+          "width": 82,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 2202,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 2272,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 2307,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 2439,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 2521,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 2585,
+          "width": 124,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 2585,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 2655,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 2690,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 2822,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 2904,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 2968,
+          "width": 124,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 2968,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 3038,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3073,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3205,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 3287,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 3351,
+          "width": 124,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 3351,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 3421,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3456,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3588,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 3670,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "INFRASTRUCTURE",
+        "text": "INFRASTRUCTURE",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50803,
+          "y": 3734,
+          "width": 124,
+          "height": 21
+        }
+      },
+      {
+        "name": "20 MAR 2026",
+        "text": "20 MAR 2026",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50978,
+          "y": 3734,
+          "width": 112,
+          "height": 21
+        }
+      },
+      {
+        "name": "Times Of India",
+        "text": "Times Of India",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50823,
+          "y": 3804,
+          "width": 114,
+          "height": 24
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3839,
+          "width": 303,
+          "height": 124
+        }
+      },
+      {
+        "name": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "text": "Lorem ipsum dolor sit amet consectetur. Ullamcorper feugiat amet mattis sed massa.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#1f2a37",
+        "bbox": {
+          "x": 50787,
+          "y": 3971,
+          "width": 303,
+          "height": 42
+        }
+      },
+      {
+        "name": "Read more",
+        "text": "Read more",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50787,
+          "y": 4053,
+          "width": 63,
+          "height": 19
+        }
+      },
+      {
+        "name": "THE MISSION CONTINUES",
+        "text": "THE MISSION CONTINUES",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 50794,
+          "y": 4247,
+          "width": 289,
+          "height": 16
+        }
+      },
+      {
+        "name": "Your turn to be Unstoppable.",
+        "text": "Your turn to be Unstoppable.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 32,
+        "lineHeight": 40,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50784,
+          "y": 4295,
+          "width": 309,
+          "height": 80
+        }
+      },
+      {
+        "name": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "text": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 4407,
+          "width": 343,
+          "height": 48
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#241e19",
+        "bbox": {
+          "x": 50830.5,
+          "y": 4521,
+          "width": 55,
+          "height": 24
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50973.5,
+          "y": 4521,
+          "width": 73,
+          "height": 24
+        }
+      },
+      {
+        "name": "Field notes from our schools. Once a month. No fundraising.",
+        "text": "Field notes from our schools. Once a month. No fundraising.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 4759,
+          "width": 343,
+          "height": 62
+        }
+      },
+      {
+        "name": "your@email.com",
+        "text": "your@email.com",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50787,
+          "y": 4852.5,
+          "width": 114,
+          "height": 21
+        }
+      },
+      {
+        "name": "Subscribe →",
+        "text": "Subscribe →",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#241e19",
+        "bbox": {
+          "x": 51010,
+          "y": 4852.5,
+          "width": 86,
+          "height": 21
+        }
+      },
+      {
+        "name": "We never share your email. Read our privacy policy.",
+        "text": "We never share your email. Read our privacy policy.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 4897,
+          "width": 343,
+          "height": 42
+        }
+      },
+      {
+        "name": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "text": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 18,
+        "lineHeight": 25.19999885559082,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5066,
+          "width": 260,
+          "height": 100
+        }
+      },
+      {
+        "name": "F",
+        "text": "F",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50781,
+          "y": 5195,
+          "width": 8,
+          "height": 18
+        }
+      },
+      {
+        "name": "𝕏",
+        "text": "𝕏",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50830,
+          "y": 5195,
+          "width": 10,
+          "height": 18
+        }
+      },
+      {
+        "name": "in",
+        "text": "in",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50878.5,
+          "y": 5195,
+          "width": 13,
+          "height": 18
+        }
+      },
+      {
+        "name": "◯",
+        "text": "◯",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50927,
+          "y": 5195,
+          "width": 16,
+          "height": 18
+        }
+      },
+      {
+        "name": "▶",
+        "text": "▶",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50978,
+          "y": 5197,
+          "width": 14,
+          "height": 14
+        }
+      },
+      {
+        "name": "PROGRAMMES",
+        "text": "PROGRAMMES",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50767,
+          "y": 5258,
+          "width": 85,
+          "height": 19
+        }
+      },
+      {
+        "name": "School Transformation",
+        "text": "School Transformation",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5279,
+          "width": 152,
+          "height": 21
+        }
+      },
+      {
+        "name": "Scholarships",
+        "text": "Scholarships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5300,
+          "width": 86,
+          "height": 21
+        }
+      },
+      {
+        "name": "Skill Development",
+        "text": "Skill Development",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5321,
+          "width": 120,
+          "height": 21
+        }
+      },
+      {
+        "name": "Anganwadi",
+        "text": "Anganwadi",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5342,
+          "width": 74,
+          "height": 21
+        }
+      },
+      {
+        "name": "Agroforestry",
+        "text": "Agroforestry",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5363,
+          "width": 85,
+          "height": 21
+        }
+      },
+      {
+        "name": "Emergency Response",
+        "text": "Emergency Response",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5384,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "name": "GET INVOLVED",
+        "text": "GET INVOLVED",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50971,
+          "y": 5258,
+          "width": 86,
+          "height": 19
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5279,
+          "width": 49,
+          "height": 21
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5300,
+          "width": 65,
+          "height": 21
+        }
+      },
+      {
+        "name": "CSR Partnerships",
+        "text": "CSR Partnerships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5321,
+          "width": 116,
+          "height": 21
+        }
+      },
+      {
+        "name": "Fundraise for Us",
+        "text": "Fundraise for Us",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5342,
+          "width": 109,
+          "height": 21
+        }
+      },
+      {
+        "name": "Careers",
+        "text": "Careers",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5363,
+          "width": 53,
+          "height": 21
+        }
+      },
+      {
+        "name": "Apply for Scholarship",
+        "text": "Apply for Scholarship",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50971,
+          "y": 5384,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "name": "THE ORGANISATION",
+        "text": "THE ORGANISATION",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 50767,
+          "y": 5425,
+          "width": 116,
+          "height": 19
+        }
+      },
+      {
+        "name": "Our Story",
+        "text": "Our Story",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5446,
+          "width": 65,
+          "height": 21
+        }
+      },
+      {
+        "name": "Our People",
+        "text": "Our People",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5467,
+          "width": 74,
+          "height": 21
+        }
+      },
+      {
+        "name": "Annual Report",
+        "text": "Annual Report",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5488,
+          "width": 95,
+          "height": 21
+        }
+      },
+      {
+        "name": "Press",
+        "text": "Press",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5509,
+          "width": 37,
+          "height": 21
+        }
+      },
+      {
+        "name": "Blog",
+        "text": "Blog",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5530,
+          "width": 29,
+          "height": 21
+        }
+      },
+      {
+        "name": "Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5551,
+          "width": 55,
+          "height": 21
+        }
+      },
+      {
+        "name": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "text": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 10,
+        "lineHeight": 15.5,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5612,
+          "width": 343,
+          "height": 30
+        }
+      },
+      {
+        "name": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "text": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 10,
+        "lineHeight": 15.5,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 50767,
+          "y": 5658,
+          "width": 343,
+          "height": 15
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "1181:16384",
+        "name": "image 2",
+        "imageRef": "526c717a3ea51ef1a9191d03aa136c24ee69fd40",
+        "bbox": {
+          "x": 50766,
+          "y": 1122,
+          "width": 52,
+          "height": 27
+        }
+      },
+      {
+        "id": "1181:16389",
+        "name": "Hero Centre",
+        "imageRef": "731beba051e341199070510f6d7ddc0eb996b0f5",
+        "bbox": {
+          "x": 50751,
+          "y": 1168,
+          "width": 375,
+          "height": 494
+        }
+      },
+      {
+        "id": "1181:16540",
+        "name": "image 3",
+        "imageRef": "75ebdbe3ec7ad95b11e98eab99a92ef547326b30",
+        "bbox": {
+          "x": 50767,
+          "y": 4981,
+          "width": 125,
+          "height": 65
+        }
+      }
+    ]
+  }
+}

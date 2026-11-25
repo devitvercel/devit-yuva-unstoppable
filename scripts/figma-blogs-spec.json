@@ -1,0 +1,2951 @@
+{
+  "1181:15407": {
+    "name": "Blogs",
+    "size": {
+      "x": 47020,
+      "y": 1103,
+      "width": 1440,
+      "height": 3443
+    },
+    "heroTexts": [
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 72,
+        "lineHeight": 89.27999877929688,
+        "letterSpacing": -2.16,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47654,
+          "y": 1426,
+          "width": 175,
+          "height": 89
+        }
+      }
+    ],
+    "categories": [
+      {
+        "name": "ALL",
+        "text": "ALL",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47456.1484375,
+          "y": 1905.5,
+          "width": 44,
+          "height": 24
+        }
+      },
+      {
+        "name": "Education",
+        "text": "Education",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47525.8515625,
+          "y": 1906,
+          "width": 89,
+          "height": 24
+        }
+      },
+      {
+        "name": "health",
+        "text": "health",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47654.8515625,
+          "y": 1906,
+          "width": 59,
+          "height": 24
+        }
+      }
+    ],
+    "cardTitles": [
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 72,
+        "lineHeight": 89.27999877929688,
+        "letterSpacing": -2.16,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47654,
+          "y": 1426,
+          "width": 175,
+          "height": 89
+        }
+      }
+    ],
+    "cardBodies": [],
+    "allTexts": [
+      {
+        "name": "Link · About",
+        "text": "About",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 47422,
+          "y": 1138,
+          "width": 42,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Programmes",
+        "text": "Programmes",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 47526,
+          "y": 1138,
+          "width": 86,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Impact",
+        "text": "Impact",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 47674,
+          "y": 1138,
+          "width": 48,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Impact",
+        "text": "Media",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 47784,
+          "y": 1138,
+          "width": 42,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Stories",
+        "text": "Voice of Change",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 47888,
+          "y": 1138,
+          "width": 110,
+          "height": 18
+        }
+      },
+      {
+        "name": "Link · Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 48034,
+          "y": 1138,
+          "width": 56,
+          "height": 18
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#fbf7ef",
+        "bbox": {
+          "x": 48309,
+          "y": 1138,
+          "width": 49,
+          "height": 18
+        }
+      },
+      {
+        "name": "STRATEGIC COLLABORATION",
+        "text": "STRATEGIC COLLABORATION",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "letterSpacing": 2.2,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47647,
+          "y": 1412,
+          "width": 204,
+          "height": 14
+        }
+      },
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 72,
+        "lineHeight": 89.27999877929688,
+        "letterSpacing": -2.16,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47654,
+          "y": 1426,
+          "width": 175,
+          "height": 89
+        }
+      },
+      {
+        "name": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "text": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 18,
+        "lineHeight": 28.799999237060547,
+        "letterSpacing": 0,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47273,
+          "y": 1515,
+          "width": 937,
+          "height": 58
+        }
+      },
+      {
+        "name": "ALL",
+        "text": "ALL",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47456.1484375,
+          "y": 1905.5,
+          "width": 44,
+          "height": 24
+        }
+      },
+      {
+        "name": "Education",
+        "text": "Education",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47525.8515625,
+          "y": 1906,
+          "width": 89,
+          "height": 24
+        }
+      },
+      {
+        "name": "health",
+        "text": "health",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47654.8515625,
+          "y": 1906,
+          "width": 59,
+          "height": 24
+        }
+      },
+      {
+        "name": "Community",
+        "text": "Community",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47753.8515625,
+          "y": 1906,
+          "width": 96,
+          "height": 24
+        }
+      },
+      {
+        "name": "Infrastructure",
+        "text": "Infrastructure",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47889.8515625,
+          "y": 1906,
+          "width": 134,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47104,
+          "y": 2303,
+          "width": 137,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47386.5,
+          "y": 2303,
+          "width": 100.5,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 24,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47104,
+          "y": 2333,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47104,
+          "y": 2421,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47104,
+          "y": 2513,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2303,
+          "width": 156,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47829.5,
+          "y": 2303,
+          "width": 102,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable:",
+        "text": "Chhavi’s Journey with Yuva Unstoppable:",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2333,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2421,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2513,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47993,
+          "y": 2303,
+          "width": 156,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48274,
+          "y": 2303,
+          "width": 102,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable:",
+        "text": "Chhavi’s Journey with Yuva Unstoppable:",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47993,
+          "y": 2333,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47993,
+          "y": 2421,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47993,
+          "y": 2513,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47104,
+          "y": 2859,
+          "width": 156,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47385,
+          "y": 2859,
+          "width": 102,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable:",
+        "text": "Chhavi’s Journey with Yuva Unstoppable:",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47104,
+          "y": 2889,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47104,
+          "y": 2977,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47104,
+          "y": 3069,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2859,
+          "width": 156,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47829.5,
+          "y": 2859,
+          "width": 102,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable:",
+        "text": "Chhavi’s Journey with Yuva Unstoppable:",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2889,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47548.5,
+          "y": 2977,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47548.5,
+          "y": 3069,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47993,
+          "y": 2859,
+          "width": 156,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48274,
+          "y": 2859,
+          "width": 102,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable:",
+        "text": "Chhavi’s Journey with Yuva Unstoppable:",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 28,
+        "lineHeight": 41.599998474121094,
+        "letterSpacing": 0,
+        "color": "#271816",
+        "bbox": {
+          "x": 47993,
+          "y": 2889,
+          "width": 339,
+          "height": 84
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 47993,
+          "y": 2977,
+          "width": 383,
+          "height": 72
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 47993,
+          "y": 3069,
+          "width": 383,
+          "height": 24
+        }
+      },
+      {
+        "name": "THE MISSION CONTINUES",
+        "text": "THE MISSION CONTINUES",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 10.5,
+        "lineHeight": 13.671000480651855,
+        "letterSpacing": 2.52,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47650,
+          "y": 3395,
+          "width": 180,
+          "height": 14
+        }
+      },
+      {
+        "name": "Your turn to be Unstoppable.",
+        "text": "Your turn to be Unstoppable.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 92,
+        "lineHeight": 89,
+        "letterSpacing": -2.76,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47100,
+          "y": 3431,
+          "width": 1280,
+          "height": 178
+        }
+      },
+      {
+        "name": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "text": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 20,
+        "lineHeight": 30,
+        "letterSpacing": 0,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47490,
+          "y": 3631,
+          "width": 500,
+          "height": 60
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "letterSpacing": 0,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 47631.5,
+          "y": 3749,
+          "width": 56,
+          "height": 21
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 16,
+        "lineHeight": 20.832000732421875,
+        "letterSpacing": 0,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 47773.5,
+          "y": 3749,
+          "width": 75,
+          "height": 21
+        }
+      },
+      {
+        "name": "Field notes from our schools. Once a month. No fundraising.",
+        "text": "Field notes from our schools. Once a month. No fundraising.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 32,
+        "lineHeight": 40,
+        "letterSpacing": -0.3199999928474426,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47100,
+          "y": 3980,
+          "width": 616,
+          "height": 80
+        }
+      },
+      {
+        "name": "your@email.com",
+        "text": "your@email.com",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47784,
+          "y": 3996,
+          "width": 112,
+          "height": 18
+        }
+      },
+      {
+        "name": "Subscribe →",
+        "text": "Subscribe →",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 48236,
+          "y": 3996,
+          "width": 84,
+          "height": 18
+        }
+      },
+      {
+        "name": "We never share your email. Read our privacy policy.",
+        "text": "We never share your email. Read our privacy policy.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47764,
+          "y": 4040,
+          "width": 337,
+          "height": 18
+        }
+      },
+      {
+        "name": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "text": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 15,
+        "lineHeight": 22,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47100,
+          "y": 4245,
+          "width": 260,
+          "height": 66
+        }
+      },
+      {
+        "name": "F",
+        "text": "F",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47114,
+          "y": 4344,
+          "width": 8,
+          "height": 18
+        }
+      },
+      {
+        "name": "𝕏",
+        "text": "𝕏",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47163,
+          "y": 4344,
+          "width": 10,
+          "height": 18
+        }
+      },
+      {
+        "name": "in",
+        "text": "in",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47211.5,
+          "y": 4344,
+          "width": 13,
+          "height": 18
+        }
+      },
+      {
+        "name": "◯",
+        "text": "◯",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47260,
+          "y": 4344,
+          "width": 16,
+          "height": 18
+        }
+      },
+      {
+        "name": "▶",
+        "text": "▶",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47311,
+          "y": 4346,
+          "width": 14,
+          "height": 14
+        }
+      },
+      {
+        "name": "PROGRAMMES",
+        "text": "PROGRAMMES",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "letterSpacing": 2.200000047683716,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 47548,
+          "y": 4156,
+          "width": 107,
+          "height": 16
+        }
+      },
+      {
+        "name": "School Transformation",
+        "text": "School Transformation",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4204,
+          "width": 149,
+          "height": 18
+        }
+      },
+      {
+        "name": "Scholarships",
+        "text": "Scholarships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4234,
+          "width": 85,
+          "height": 18
+        }
+      },
+      {
+        "name": "Skill Development",
+        "text": "Skill Development",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4264,
+          "width": 118,
+          "height": 18
+        }
+      },
+      {
+        "name": "Anganwadi",
+        "text": "Anganwadi",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4294,
+          "width": 73,
+          "height": 18
+        }
+      },
+      {
+        "name": "Agroforestry",
+        "text": "Agroforestry",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4324,
+          "width": 84,
+          "height": 18
+        }
+      },
+      {
+        "name": "Emergency Response",
+        "text": "Emergency Response",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47548,
+          "y": 4354,
+          "width": 142,
+          "height": 18
+        }
+      },
+      {
+        "name": "GET INVOLVED",
+        "text": "GET INVOLVED",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "letterSpacing": 2.200000047683716,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 47856,
+          "y": 4156,
+          "width": 111,
+          "height": 16
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4204,
+          "width": 48,
+          "height": 18
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4234,
+          "width": 64,
+          "height": 18
+        }
+      },
+      {
+        "name": "CSR Partnerships",
+        "text": "CSR Partnerships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4264,
+          "width": 114,
+          "height": 18
+        }
+      },
+      {
+        "name": "Fundraise for Us",
+        "text": "Fundraise for Us",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4294,
+          "width": 107,
+          "height": 18
+        }
+      },
+      {
+        "name": "Careers",
+        "text": "Careers",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4324,
+          "width": 52,
+          "height": 18
+        }
+      },
+      {
+        "name": "Apply for Scholarship",
+        "text": "Apply for Scholarship",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47856,
+          "y": 4354,
+          "width": 142,
+          "height": 18
+        }
+      },
+      {
+        "name": "THE ORGANISATION",
+        "text": "THE ORGANISATION",
+        "font": "DM Sans",
+        "weight": 900,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "letterSpacing": 2.200000047683716,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 48164,
+          "y": 4156,
+          "width": 151,
+          "height": 16
+        }
+      },
+      {
+        "name": "Our Story",
+        "text": "Our Story",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4204,
+          "width": 64,
+          "height": 18
+        }
+      },
+      {
+        "name": "Our People",
+        "text": "Our People",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4234,
+          "width": 73,
+          "height": 18
+        }
+      },
+      {
+        "name": "Annual Report",
+        "text": "Annual Report",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4264,
+          "width": 94,
+          "height": 18
+        }
+      },
+      {
+        "name": "Press",
+        "text": "Press",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4294,
+          "width": 36,
+          "height": 18
+        }
+      },
+      {
+        "name": "Blog",
+        "text": "Blog",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4324,
+          "width": 28,
+          "height": 18
+        }
+      },
+      {
+        "name": "Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48164,
+          "y": 4354,
+          "width": 54,
+          "height": 18
+        }
+      },
+      {
+        "name": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "text": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "letterSpacing": 1.100000023841858,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47100,
+          "y": 4500,
+          "width": 423,
+          "height": 14
+        }
+      },
+      {
+        "name": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "text": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "letterSpacing": 1.649999976158142,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 47957,
+          "y": 4500,
+          "width": 423,
+          "height": 14
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "1181:15409",
+        "name": "image 2",
+        "imageRef": "526c717a3ea51ef1a9191d03aa136c24ee69fd40",
+        "bbox": {
+          "x": 47100,
+          "y": 1114.5,
+          "width": 125,
+          "height": 65
+        }
+      },
+      {
+        "id": "1181:15431",
+        "name": "Hero Centre",
+        "imageRef": "a1222fa60363c3eb22f1d3beb2c443eeffe93e97",
+        "bbox": {
+          "x": 47020,
+          "y": 1191,
+          "width": 1443,
+          "height": 587
+        }
+      },
+      {
+        "id": "1181:15455",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47084,
+          "y": 2035,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15473",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47528.5,
+          "y": 2035,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15491",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47973,
+          "y": 2035,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15509",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47084,
+          "y": 2591,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15527",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47528.5,
+          "y": 2591,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15545",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 47973,
+          "y": 2591,
+          "width": 424,
+          "height": 248
+        }
+      },
+      {
+        "id": "1181:15584",
+        "name": "image 2",
+        "imageRef": "75ebdbe3ec7ad95b11e98eab99a92ef547326b30",
+        "bbox": {
+          "x": 47100,
+          "y": 4156,
+          "width": 125,
+          "height": 65
+        }
+      }
+    ]
+  },
+  "1181:16176": {
+    "name": "Blogs",
+    "size": {
+      "x": 48542,
+      "y": 1103,
+      "width": 375,
+      "height": 5647
+    },
+    "heroTexts": [
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 400,
+        "size": 32,
+        "lineHeight": 40,
+        "letterSpacing": -0.64,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48690.5,
+          "y": 1400.5,
+          "width": 78,
+          "height": 40
+        }
+      }
+    ],
+    "categories": [
+      {
+        "name": "ALL",
+        "text": "ALL",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48564.6484375,
+          "y": 1868.5,
+          "width": 41,
+          "height": 24
+        }
+      },
+      {
+        "name": "Education",
+        "text": "Education",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48634.3515625,
+          "y": 1869,
+          "width": 89,
+          "height": 24
+        }
+      },
+      {
+        "name": "health",
+        "text": "health",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48763.3515625,
+          "y": 1869,
+          "width": 59,
+          "height": 24
+        }
+      }
+    ],
+    "cardTitles": [
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 400,
+        "size": 32,
+        "lineHeight": 40,
+        "letterSpacing": -0.64,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48690.5,
+          "y": 1400.5,
+          "width": 78,
+          "height": 40
+        }
+      }
+    ],
+    "cardBodies": [],
+    "allTexts": [
+      {
+        "name": "STRATEGIC COLLABORATION",
+        "text": "STRATEGIC COLLABORATION",
+        "font": "DM Sans",
+        "weight": 700,
+        "size": 11,
+        "lineHeight": 14.322000503540039,
+        "letterSpacing": 2.2,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48635,
+          "y": 1386.5,
+          "width": 204,
+          "height": 14
+        }
+      },
+      {
+        "name": "Hero Title",
+        "text": "Blogs",
+        "font": "Libre Baskerville",
+        "weight": 400,
+        "size": 32,
+        "lineHeight": 40,
+        "letterSpacing": -0.64,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48690.5,
+          "y": 1400.5,
+          "width": 78,
+          "height": 40
+        }
+      },
+      {
+        "name": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "text": "Yuva Unstoppable gratefully acknowledges the support received from our partners who believe in our efforts, champion our cause and remain UNSTOPPABLE with us.",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48558,
+          "y": 1440.5,
+          "width": 343,
+          "height": 96
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 2220,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 2220,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 2250,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 2308,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 2391,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 2777,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 2777,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 2807,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 2865,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 2948,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 3334,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 3334,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 3364,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 3422,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 3505,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 3891,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 3891,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 3921,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 3979,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 4062,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 4448,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 4448,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 4478,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 4536,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 4619,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "Nuturing Dreams",
+        "text": "Nuturing Dreams",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 5005,
+          "width": 117,
+          "height": 24
+        }
+      },
+      {
+        "name": "OCT 12, 2024",
+        "text": "OCT 12, 2024",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48805,
+          "y": 5005,
+          "width": 76,
+          "height": 24
+        }
+      },
+      {
+        "name": "Chhavi’s Journey with Yuva Unstoppable",
+        "text": "Chhavi’s Journey with Yuva Unstoppable",
+        "font": "Fraunces",
+        "weight": 400,
+        "size": 20,
+        "lineHeight": 27,
+        "letterSpacing": -0.1,
+        "color": "#271816",
+        "bbox": {
+          "x": 48571,
+          "y": 5035,
+          "width": 283,
+          "height": 54
+        }
+      },
+      {
+        "name": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "text": "In bustling Haryana, amidst dreams as vast as the horizon, resides 18-year-old Chhavi asdfghjkl;’qwertyuiopertyuioprtyu............",
+        "font": "DM Sans",
+        "weight": 400,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48571,
+          "y": 5093,
+          "width": 310,
+          "height": 63
+        }
+      },
+      {
+        "name": "Read More →",
+        "text": "Read More →",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48571,
+          "y": 5176,
+          "width": 310,
+          "height": 24
+        }
+      },
+      {
+        "name": "ALL",
+        "text": "ALL",
+        "font": "Work Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#a00416",
+        "bbox": {
+          "x": 48564.6484375,
+          "y": 1868.5,
+          "width": 41,
+          "height": 24
+        }
+      },
+      {
+        "name": "Education",
+        "text": "Education",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48634.3515625,
+          "y": 1869,
+          "width": 89,
+          "height": 24
+        }
+      },
+      {
+        "name": "health",
+        "text": "health",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48763.3515625,
+          "y": 1869,
+          "width": 59,
+          "height": 24
+        }
+      },
+      {
+        "name": "Community",
+        "text": "Community",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48862.3515625,
+          "y": 1869,
+          "width": 96,
+          "height": 24
+        }
+      },
+      {
+        "name": "Infrastructure",
+        "text": "Infrastructure",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#5b403e",
+        "bbox": {
+          "x": 48998.3515625,
+          "y": 1869,
+          "width": 134,
+          "height": 24
+        }
+      },
+      {
+        "name": "THE MISSION CONTINUES",
+        "text": "THE MISSION CONTINUES",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 12,
+        "lineHeight": 15.624000549316406,
+        "letterSpacing": 2.200000047683716,
+        "color": "#ffffff",
+        "bbox": {
+          "x": 48585,
+          "y": 5498,
+          "width": 289,
+          "height": 16
+        }
+      },
+      {
+        "name": "Your turn to be Unstoppable.",
+        "text": "Your turn to be Unstoppable.",
+        "font": "Libre Baskerville",
+        "weight": 500,
+        "size": 32,
+        "lineHeight": 40,
+        "letterSpacing": -0.64,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48575,
+          "y": 5546,
+          "width": 309,
+          "height": 80
+        }
+      },
+      {
+        "name": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "text": "Twenty years in. Ten million lives touched. The next twenty start with you.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 5658,
+          "width": 343,
+          "height": 48
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#241e19",
+        "bbox": {
+          "x": 48621.5,
+          "y": 5772,
+          "width": 55,
+          "height": 24
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 16,
+        "lineHeight": 24,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48764.5,
+          "y": 5772,
+          "width": 73,
+          "height": 24
+        }
+      },
+      {
+        "name": "Field notes from our schools. Once a month. No fundraising.",
+        "text": "Field notes from our schools. Once a month. No fundraising.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 24,
+        "lineHeight": 31.19999885559082,
+        "letterSpacing": -0.24,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 5970,
+          "width": 343,
+          "height": 62
+        }
+      },
+      {
+        "name": "your@email.com",
+        "text": "your@email.com",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48578,
+          "y": 6066,
+          "width": 114,
+          "height": 21
+        }
+      },
+      {
+        "name": "Subscribe →",
+        "text": "Subscribe →",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#241e19",
+        "bbox": {
+          "x": 48801,
+          "y": 6066,
+          "width": 86,
+          "height": 21
+        }
+      },
+      {
+        "name": "We never share your email. Read our privacy policy.",
+        "text": "We never share your email. Read our privacy policy.",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6113,
+          "width": 343,
+          "height": 42
+        }
+      },
+      {
+        "name": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "text": "Unstoppable seva that empowers resilient communities towards Viksit Bharat.",
+        "font": "Fraunces",
+        "weight": 600,
+        "size": 18,
+        "lineHeight": 25.19999885559082,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6282,
+          "width": 260,
+          "height": 100
+        }
+      },
+      {
+        "name": "F",
+        "text": "F",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48572,
+          "y": 6411,
+          "width": 8,
+          "height": 18
+        }
+      },
+      {
+        "name": "𝕏",
+        "text": "𝕏",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48621,
+          "y": 6411,
+          "width": 10,
+          "height": 18
+        }
+      },
+      {
+        "name": "in",
+        "text": "in",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48669.5,
+          "y": 6411,
+          "width": 13,
+          "height": 18
+        }
+      },
+      {
+        "name": "◯",
+        "text": "◯",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48718,
+          "y": 6411,
+          "width": 16,
+          "height": 18
+        }
+      },
+      {
+        "name": "▶",
+        "text": "▶",
+        "font": "DM Sans",
+        "weight": 800,
+        "size": 14,
+        "lineHeight": 18.22800064086914,
+        "letterSpacing": 0,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48769,
+          "y": 6413,
+          "width": 14,
+          "height": 14
+        }
+      },
+      {
+        "name": "PROGRAMMES",
+        "text": "PROGRAMMES",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "letterSpacing": 0.24,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 48558,
+          "y": 6474,
+          "width": 85,
+          "height": 19
+        }
+      },
+      {
+        "name": "School Transformation",
+        "text": "School Transformation",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6495,
+          "width": 152,
+          "height": 21
+        }
+      },
+      {
+        "name": "Scholarships",
+        "text": "Scholarships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6516,
+          "width": 86,
+          "height": 21
+        }
+      },
+      {
+        "name": "Skill Development",
+        "text": "Skill Development",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6537,
+          "width": 120,
+          "height": 21
+        }
+      },
+      {
+        "name": "Anganwadi",
+        "text": "Anganwadi",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6558,
+          "width": 74,
+          "height": 21
+        }
+      },
+      {
+        "name": "Agroforestry",
+        "text": "Agroforestry",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6579,
+          "width": 85,
+          "height": 21
+        }
+      },
+      {
+        "name": "Emergency Response",
+        "text": "Emergency Response",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6600,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "name": "GET INVOLVED",
+        "text": "GET INVOLVED",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "letterSpacing": 0.24,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 48762,
+          "y": 6474,
+          "width": 86,
+          "height": 19
+        }
+      },
+      {
+        "name": "Donate",
+        "text": "Donate",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6495,
+          "width": 49,
+          "height": 21
+        }
+      },
+      {
+        "name": "Volunteer",
+        "text": "Volunteer",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6516,
+          "width": 65,
+          "height": 21
+        }
+      },
+      {
+        "name": "CSR Partnerships",
+        "text": "CSR Partnerships",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6537,
+          "width": 116,
+          "height": 21
+        }
+      },
+      {
+        "name": "Fundraise for Us",
+        "text": "Fundraise for Us",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6558,
+          "width": 109,
+          "height": 21
+        }
+      },
+      {
+        "name": "Careers",
+        "text": "Careers",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6579,
+          "width": 53,
+          "height": 21
+        }
+      },
+      {
+        "name": "Apply for Scholarship",
+        "text": "Apply for Scholarship",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48762,
+          "y": 6600,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "name": "THE ORGANISATION",
+        "text": "THE ORGANISATION",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "letterSpacing": 0.24,
+        "color": "#ce2028",
+        "bbox": {
+          "x": 48558,
+          "y": 6641,
+          "width": 116,
+          "height": 19
+        }
+      },
+      {
+        "name": "Our Story",
+        "text": "Our Story",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6662,
+          "width": 65,
+          "height": 21
+        }
+      },
+      {
+        "name": "Our People",
+        "text": "Our People",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6683,
+          "width": 74,
+          "height": 21
+        }
+      },
+      {
+        "name": "Annual Report",
+        "text": "Annual Report",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6704,
+          "width": 95,
+          "height": 21
+        }
+      },
+      {
+        "name": "Press",
+        "text": "Press",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6725,
+          "width": 37,
+          "height": 21
+        }
+      },
+      {
+        "name": "Blog",
+        "text": "Blog",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6746,
+          "width": 29,
+          "height": 21
+        }
+      },
+      {
+        "name": "Contact",
+        "text": "Contact",
+        "font": "DM Sans",
+        "weight": 500,
+        "size": 14,
+        "lineHeight": 21,
+        "letterSpacing": 0.14,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6767,
+          "width": 55,
+          "height": 21
+        }
+      },
+      {
+        "name": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "text": "© 2026 Yuva Unstoppable Terms Privacy Grievance Redressal",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 10,
+        "lineHeight": 15.5,
+        "letterSpacing": 0.2,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6828,
+          "width": 343,
+          "height": 30
+        }
+      },
+      {
+        "name": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "text": "INDIA & US REGISTERED · 12A · 80G · FCRA · CSR-1 REGISTERED",
+        "font": "DM Sans",
+        "weight": 600,
+        "size": 12,
+        "lineHeight": 18.599998474121094,
+        "letterSpacing": 0.24,
+        "color": "#f4ede0",
+        "bbox": {
+          "x": 48558,
+          "y": 6874,
+          "width": 343,
+          "height": 15
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "1181:16179",
+        "name": "image 2",
+        "imageRef": "526c717a3ea51ef1a9191d03aa136c24ee69fd40",
+        "bbox": {
+          "x": 48557,
+          "y": 1122,
+          "width": 52,
+          "height": 27
+        }
+      },
+      {
+        "id": "1181:16184",
+        "name": "Hero Centre",
+        "imageRef": "a1222fa60363c3eb22f1d3beb2c443eeffe93e97",
+        "bbox": {
+          "x": 48542,
+          "y": 1168,
+          "width": 375,
+          "height": 587
+        },
+        "savedAs": "/assets/pages/blogs/blog-1.png"
+      },
+      {
+        "id": "1181:16196",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 1952,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-2.png"
+      },
+      {
+        "id": "1181:16214",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 2509,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-3.png"
+      },
+      {
+        "id": "1181:16232",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 3066,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-4.png"
+      },
+      {
+        "id": "1181:16250",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 3623,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-5.png"
+      },
+      {
+        "id": "1181:16268",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 4180,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-6.png"
+      },
+      {
+        "id": "1181:16286",
+        "name": "AB6AXuAlNOkMHvl7f1J0vZ7C9eLpTQq-hxn8gmNmAwuz2DNY1jtsjYMQB6TfGcjH_B6lRR2wG9Sl7NN9MC4JENfVv_sCPpQRzdYCN95msVtCmmYUV-sDZDQ9f_07enc09rADxpfcEo_VSZ-dA8B2UwInT3uF8Zad07ddMJjTUmTbjm2lVUlEx50l8qT2QGO1gA5f8WaD5Xi0Fc08saE6AgVEog6oxm8pIqDNW0cj-UtIXVcapBAqzfpNkuwbztSQ4VGLMoU0_hZmTf6UbBpi",
+        "imageRef": "5c037b9a48d8af8878ff2429acff2c7adef1f675",
+        "bbox": {
+          "x": 48551,
+          "y": 4737,
+          "width": 424,
+          "height": 248
+        },
+        "savedAs": "/assets/pages/blogs/blog-7.png"
+      },
+      {
+        "id": "1181:16337",
+        "name": "image 3",
+        "imageRef": "75ebdbe3ec7ad95b11e98eab99a92ef547326b30",
+        "bbox": {
+          "x": 48558,
+          "y": 6197,
+          "width": 125,
+          "height": 65
+        }
+      }
+    ]
+  }
+}
