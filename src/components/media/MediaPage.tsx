@@ -39,17 +39,11 @@ export async function generateMetadata(slug: string): Promise<Metadata> {
   return buildFallbackMetadata(fallback, canonical);
 }
 
-export default async function MediaPage({
-  slug,
-  searchParams,
-}: {
-  slug: string;
-  searchParams?: { [key: string]: string | string[] | undefined };
-}) {
-  const searchQuery =
-    typeof searchParams?.q === "string" ? searchParams.q.trim() : "";
+export default async function MediaPage({ slug }: { slug: string }) {
+  // No server-side URL params: the route stays ISR/CDN-cached. Deep-link
+  // params (?q, ?tab, ?category) are applied client-side on mount.
   const [data, pageMeta] = await Promise.all([
-    getMediaPageData(slug, searchQuery),
+    getMediaPageData(slug),
     fetchPageMeta(resolveMediaWpSlug(slug) ?? slug),
   ]);
 
@@ -70,17 +64,6 @@ export default async function MediaPage({
             tabs={data.tabs}
             categories={data.categories}
             items={data.gallery}
-            initialTab={
-              typeof searchParams?.tab === "string"
-                ? searchParams.tab
-                : undefined
-            }
-            initialQuery={searchQuery}
-            initialCategory={
-              typeof searchParams?.category === "string"
-                ? searchParams.category
-                : undefined
-            }
           />
         </Reveal>
       ) : data.template === 4 ? (
@@ -89,12 +72,6 @@ export default async function MediaPage({
             categories={data.categories}
             articles={data.articles}
             variant={slug === "press-and-media" ? "press" : "blog"}
-            initialQuery={searchQuery}
-            initialCategory={
-              typeof searchParams?.category === "string"
-                ? searchParams.category
-                : undefined
-            }
           />
         </Reveal>
       ) : null}

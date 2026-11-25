@@ -8,7 +8,6 @@ import { fetchPageMeta } from "@/lib/wordpress";
 import { buildMetadata, buildMetadataFromYoast, buildFallbackMetadata } from "@/lib/seo/metadata.builder";
 import YoastSchemaRenderer from "@/lib/seo/YoastSchemaRenderer";
 import { PAGE_SLUGS } from "@/constants/wp.constants";
-import { isAwardsRecognitionCategory } from "@/constants/awardsRecognition.constants";
 import { APP_ROUTES } from "@/constants/navigation.constants";
 
 const FALLBACK = {
@@ -29,31 +28,19 @@ import VocHeroSection from "@/components/voiceOfChange/heroSection/VocHeroSectio
 import VocStoriesSection from "@/components/voiceOfChange/storiesSection/VocStoriesSection";
 import VocCtaBannerSection from "@/components/voiceOfChange/ctaBannerSection/VocCtaBannerSection";
 
-export default async function VoiceOfChangePage({
-  initialCategorySlug,
-  initialQuery = "",
-}: {
-  /** From ?category=<slug> — a blog post's "Go Back" lands the listing here. */
-  initialCategorySlug?: string;
-  /** Backend WordPress search query. UI is feature-flagged off for now. */
-  initialQuery?: string;
-}) {
+export default async function VoiceOfChangePage() {
   // Fetch the complete card catalog with the same request shape as /blogs so
   // both routes benefit from the same Next/WordPress response cache.
   const [data, tabs, pageMeta, stories] = await Promise.all([
     getVocPageData(),
     getVocCategoryTabs(),
     fetchPageMeta(PAGE_SLUGS.VOICE_OF_CHANGE),
-    getVocStoryCatalog(initialQuery),
+    getVocStoryCatalog(),
   ]);
 
-  // Resolve ?category= to a real tab. Unknown/absent slug → the default ALL tab,
-  // so a stale or non-tab category can never leave the grid empty.
-  const initialTab =
-    initialCategorySlug &&
-    isAwardsRecognitionCategory(initialCategorySlug)
-      ? tabs[0]
-      : tabs.find((t) => t.slug === initialCategorySlug) ?? tabs[0];
+  // Server HTML always renders the default ALL tab so the route stays ISR.
+  // ?category= / ?q= deep links are applied client-side in VocStoriesSection.
+  const initialTab = tabs[0];
 
   return (
     <main className="flex flex-col overflow-x-clip">
@@ -65,7 +52,6 @@ export default async function VoiceOfChangePage({
         tabs={tabs}
         initialTab={initialTab}
         stories={stories}
-        initialQuery={initialQuery}
       />
       <VocCtaBannerSection ctaBanner={data.ctaBanner} />
     </main>

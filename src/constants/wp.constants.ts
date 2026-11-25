@@ -103,16 +103,17 @@ export const PAGE_SLUGS = {
 
 /**
  * Next.js ISR revalidation windows, in seconds.
+ * The lowest fetch `revalidate` on a route wins over the route's own
+ * `export const revalidate`, so keep these at or above the route values.
  */
 export const REVALIDATE_TIME = {
-  PAGES: 900,
-  GLOBAL: 900,
+  PAGES: 3600,
+  GLOBAL: 3600,
   /**
    * Blog posts/list. Editorial content changes infrequently, so a longer window
-   * avoids needless slow upstream re-renders. 5 minutes; raise toward 600 (10
-   * min) if blogs change even less often.
+   * avoids needless slow upstream re-renders and ISR writes. 1 hour.
    */
-  POSTS: 900,
+  POSTS: 3600,
 } as const;
 
 /**

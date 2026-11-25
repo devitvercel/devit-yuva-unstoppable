@@ -38,19 +38,12 @@ export async function generateMetadata(slug: string): Promise<Metadata> {
 }
 
 export default async function IndividualBlogPage(
-  {slug, from, listing}: {slug: string; from?: string; listing?: string}
+  {slug}: {slug: string}
 ) {
   const [data, postMeta] = await Promise.all([
     getIndividualBlogPageData(slug),
     fetchPostMeta(slug),
   ]);
-
-  const backHref =
-    listing === "blogs"
-      ? "/blogs"
-      : from
-        ? `/voice-of-change?category=${encodeURIComponent(from)}`
-        : "/voice-of-change";
 
   const articleTitle = data.hero.title || fallbackSafeTitle(slug);
 
@@ -83,7 +76,7 @@ export default async function IndividualBlogPage(
       <HeroSection hero={data.hero}/>
 
       <Reveal>
-        <ContentSection content={data.content} backHref={backHref}/>
+        <ContentSection content={data.content}/>
       </Reveal>
 
       {/* <Reveal>

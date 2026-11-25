@@ -261,11 +261,19 @@ export const fetchContentCategories = cache(
   }
 );
 
-export const fetchContentBySlug = cache(
+export interface ContentBySlugResult {
+  item: WPContentItem | null;
+  /** WordPress answered OK with an empty array — the slug does not exist. */
+  missing: boolean;
+  /** Network error or non-OK HTTP status — existence is unknown. */
+  failed: boolean;
+}
+
+export const fetchContentBySlugResult = cache(
   async (
     source: ContentSource,
     slug: string
-  ): Promise<WPContentItem | null> => {
+  ): Promise<ContentBySlugResult> => {
     const params = new URLSearchParams({
       slug,
       _fields: source.detailFields,
@@ -281,21 +289,29 @@ export const fetchContentBySlug = cache(
         next: { revalidate: REVALIDATE_TIME.POSTS },
         headers: { Accept: "application/json" },
       });
-      if (!res.ok) return null;
+      if (!res.ok) return { item: null, missing: false, failed: true };
 
       const items = (await res.json()) as WPContentItem[];
-      if (items.length === 0) return null;
+      if (items.length === 0) return { item: null, missing: true, failed: false };
 
       const [item] = await enrichContentItems(items, source);
-      return item;
+      return { item, missing: false, failed: false };
     } catch (err) {
       console.error(
         `[fetchContentBySlug] Failed for ${source.label} slug="${slug}"`,
         err
       );
-      return null;
+      return { item: null, missing: false, failed: true };
     }
   }
+);
+
+export const fetchContentBySlug = cache(
+  async (
+    source: ContentSource,
+    slug: string
+  ): Promise<WPContentItem | null> =>
+    (await fetchContentBySlugResult(source, slug)).item
 );
 
 function excerptToDescription(

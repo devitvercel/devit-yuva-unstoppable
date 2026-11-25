@@ -27,7 +27,9 @@ export const fetchWPPage = cache(
       `&scf_format=${WP_CONFIG.query.scfFormat}` +
       `&_fields=${WP_CONFIG.query.pageFields}`;
 
-    console.log(`[fetchWPPage] GET ${url} (revalidate ${revalidate}s)`);
+    if (process.env.NODE_ENV === "development") {
+      console.log(`[fetchWPPage] GET ${url} (revalidate ${revalidate}s)`);
+    }
 
     try {
       const res = await wpFetch(url, {
