@@ -17,17 +17,24 @@ export async function GET(request: NextRequest) {
       throw new Error(`Failed to fetch file: ${response.statusText}`);
     }
 
-    const blob = await response.blob();
     const urlParts = fileUrl.split('/');
     const filename = urlParts[urlParts.length - 1] || 'document.pdf';
 
-    return new NextResponse(blob, {
-      headers: {
-        // 'inline' tells the browser to display it instead of downloading
-        'Content-Disposition': `inline; filename="${filename}"`,
-        'Content-Type': response.headers.get('content-type') || 'application/pdf',
-      },
-    });
+    const headers: Record<string, string> = {
+      // 'inline' tells the browser to display it instead of downloading
+      'Content-Disposition': `inline; filename="${filename}"`,
+      'Content-Type': response.headers.get('content-type') || 'application/pdf',
+      // Let the CDN serve repeat views without invoking this function.
+      'Cache-Control': 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800',
+    };
+    // fetch() transparently decompresses, so a compressed upstream length would be wrong.
+    const contentLength = response.headers.get('content-length');
+    if (contentLength && !response.headers.get('content-encoding')) {
+      headers['Content-Length'] = contentLength;
+    }
+
+    // Stream the body instead of buffering the whole file in memory.
+    return new NextResponse(response.body, { headers });
   } catch (error) {
     console.error('Proxy view error:', error);
     return new NextResponse('Error loading document', { status: 500 });

@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState, useEffect, useRef, useCallback } from "react";
+import { useMemo, useState, useEffect, useLayoutEffect, useRef, useCallback } from "react";
 import ArticleCard from "@/components/media/articlesSection/ArticleCard";
 import PressArticleCard from "@/components/media/articlesSection/PressArticleCard";
 import MediaTabs from "@/components/media/tabs/MediaTabs";
@@ -43,6 +43,20 @@ function ArticlesSection({
       : "all"
   );
   const [query, setQuery] = useState(initialQuery);
+
+  // Apply ?category= / ?q= deep links on mount. Read from window.location (not
+  // useSearchParams) so the route stays ISR and the server HTML keeps the full
+  // default list; useLayoutEffect applies it before paint (no flash).
+  useLayoutEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const category = params.get("category");
+    if (category && categories.some((c) => c.id === category)) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- one-time sync from URL (external) on mount
+      setActiveCategory(category);
+    }
+    const q = params.get("q")?.trim();
+    if (q) setQuery(q);
+  }, [categories]);
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/link";
+import BackLink from "@/components/individualBlog/contentSection/BackLink";
 import type {IndividualBlogContentSection} from "@/types/individualBlog/individualBlog.types";
 import {ArrowLeftIcon} from "lucide-react";
 
@@ -54,10 +54,8 @@ const blogContentClassName = `
 
 const ContentSection = ({
   content,
-  backHref,
 }: {
   content: IndividualBlogContentSection;
-  backHref: string;
 }) => {
   return (
     <section className="mx-auto flex w-916/1000 max-w-5xl flex-col gap-12 xl:w-888/1000 xl:gap-10">
@@ -65,13 +63,12 @@ const ContentSection = ({
         className={blogContentClassName}
         dangerouslySetInnerHTML={{__html: content?.content?.rendered || ""}}
       />
-      <Link
-        href={backHref}
+      <BackLink
         className="flex flex-wrap flex-row gap-2.5 text-primary-red hover:cursor-pointer"
       >
         <ArrowLeftIcon />
         Go Back
-      </Link>
+      </BackLink>
     </section>
   );
 };

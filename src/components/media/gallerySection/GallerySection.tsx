@@ -1,6 +1,6 @@
 "use client";
 
-import {useMemo, useState, useCallback} from "react";
+import {useMemo, useState, useCallback, useLayoutEffect} from "react";
 import GalleryCard from "@/components/media/gallerySection/GalleryCard";
 import GalleryVideoModal from "@/components/media/gallerySection/GalleryVideoModal";
 import MediaTabs from "@/components/media/tabs/MediaTabs";
@@ -44,6 +44,24 @@ function GallerySection({
   );
   const [activeItem, setActiveItem] = useState<GalleryItem | null>(null);
   const [query, setQuery] = useState(initialQuery);
+
+  // Apply ?tab= / ?category= / ?q= deep links on mount. Read from
+  // window.location (not useSearchParams) so the route stays ISR and the server
+  // HTML keeps the full default gallery; useLayoutEffect applies it before paint.
+  useLayoutEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const tab = params.get("tab");
+    if (tab && tabs.some((t) => t.id === tab)) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- one-time sync from URL (external) on mount
+      setActiveGallery(tab);
+    }
+    const category = params.get("category");
+    if (category && categories.some((c) => c.id === category)) {
+      setActiveCategory(category);
+    }
+    const q = params.get("q")?.trim();
+    if (q) setQuery(q);
+  }, [tabs, categories]);
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
 

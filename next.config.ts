@@ -47,7 +47,7 @@ const securityHeaders = [
       "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data: blob: https:",
       "font-src 'self' data:",
-      "connect-src 'self' https://yuvaunstoppable.org/cms,https://cms.yuvaunstoppable.org/cms, https://*.hostingersite.com", ,
+      "connect-src 'self' https://cms.yuvaunstoppable.org https://yuvaunstoppable.org https://www.yuvaunstoppable.org https://*.hostingersite.com https://devit-yuva-unstoppable.vercel.app/",
       "media-src 'self' https: blob:",
       `frame-src ${FRAME_SRC_DOMAINS}`,
       "worker-src 'self' blob:",

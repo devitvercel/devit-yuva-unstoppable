@@ -3,6 +3,7 @@
 import React, {
   useState,
   useEffect,
+  useLayoutEffect,
   useRef,
   useCallback,
   useMemo,
@@ -11,6 +12,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { motion } from "motion/react";
 import MediaSearch from "@/components/media/MediaSearch";
+import { isAwardsRecognitionCategory } from "@/constants/awardsRecognition.constants";
 import {
   VOC_PAGE_SIZE,
   type VocCardItem,
@@ -83,6 +85,24 @@ const VocStoriesSection: React.FC<VocStoriesSectionProps> = ({
   const [activeTab, setActiveTab] = useState<VocCategoryTab>(initialTab);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [query, setQuery] = useState(initialQuery);
+
+  // Apply ?category= / ?q= deep links on mount (e.g. a blog post's "Go Back").
+  // Read from window.location (not useSearchParams) so the route stays ISR and
+  // the server HTML keeps the default ALL tab; useLayoutEffect avoids a flash.
+  // Unknown or awards-category slugs fall back to the ALL tab, as before.
+  useLayoutEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const category = params.get("category");
+    if (category) {
+      const tab = isAwardsRecognitionCategory(category)
+        ? tabs[0]
+        : tabs.find((t) => t.slug === category) ?? tabs[0];
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- one-time sync from URL (external) on mount
+      setActiveTab(tab);
+    }
+    const q = params.get("q")?.trim();
+    if (q) setQuery(q);
+  }, [tabs]);
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
 

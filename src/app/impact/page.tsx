@@ -1,3 +1,3 @@
 export { default, generateMetadata } from "@/components/impact/ImpactPage";
 
-export const revalidate = 900;
+export const revalidate = 3600;
